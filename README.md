@@ -1,3 +1,3 @@
-### computer_vision
+### COMPUTER VISION
 for 
 ## DEEP LEARNING
